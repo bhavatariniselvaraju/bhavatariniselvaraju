@@ -15,3 +15,9 @@ ECE Student | Aspiring Software Developer | Tech Enthusiast
 <p>
   <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
 </p>
+
+<h2>LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Bhavatarini S?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
