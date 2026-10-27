@@ -9,3 +9,9 @@ ECE Student | Aspiring Software Developer | Tech Enthusiast
 ### Connect With Me
 - LinkedIn: https://linkedin.com/in/bhavatarini-s-316543407
 - GitHub: https://github.com/bhavatariniselvaraju
+
+<h2>Technical Skills</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
+</p>
