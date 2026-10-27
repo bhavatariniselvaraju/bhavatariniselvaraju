@@ -21,3 +21,9 @@ ECE Student | Aspiring Software Developer | Tech Enthusiast
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/eoOUqdS6xa?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavatariniselvaraju&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
